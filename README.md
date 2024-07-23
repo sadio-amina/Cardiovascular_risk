@@ -12,7 +12,12 @@ Les accidents vasculaires cérébraux (AVC) constituent la deuxième cause de mo
 
 
 ________
-Data visualisation, data modelling
+### Utilisation
+
+    pip install -r requirements.txt
+
+__________
+### Data visualisation, data modelling
 
     Jupyter notebook
 
